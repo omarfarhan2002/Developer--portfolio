@@ -20,8 +20,28 @@ body{
 }
 .hire-button{
     text-decoration: none;
-  background-image: linear-gradient(red,orange);
-  font-weight: 700;
+    background-image: linear-gradient(red,orange);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 10px ;
+
+}
+.dream{
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
+.image2{
+    width: 50%;
+    padding-left: 20px;
+}
+.image2 img{
+    width: 80%;
+}
+.CV{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(98, 13, 13),rgb(69, 187, 34));
+    font-weight: 700;
     padding: 10px 40px;
     border-radius: 10px ;
 
